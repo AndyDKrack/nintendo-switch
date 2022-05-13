@@ -4,6 +4,11 @@ button {outline:0 !important; cursor:
  pointer;}
 body {
   background-color: #ffefcc;
+  background-image: url("dk.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 800px 800px;
+  /* background-size: auto; */
 }
 :root {
   /* COLORS */
